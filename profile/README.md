@@ -1,6 +1,6 @@
 ## Hello, World! :wave:
 
-Welcome to Engineering 4.0, an applied science club at the University of Windsor. This is our GitHub profile where we love all things open source.
+Welcome to <b>Engineering 4.0</b>, an applied science club at the <b>University of Windsor</b>. This is our GitHub profile where we love all things open source.
 
 ### About us:
 We are a diverse, inclusive student-run organization seeking to provide a platform to the science and technology enthusiasts of University of Windsor to 
